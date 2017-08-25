@@ -1,0 +1,1 @@
+git remote add origin https://github.com/jojomeh/memes-and-hopes2.git
